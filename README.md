@@ -1,2 +1,2 @@
 # meu-site
-Meu site (que esta em construção)
+My website (under construction). I used Angular, HTML and CSS. 
